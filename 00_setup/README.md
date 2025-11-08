@@ -24,13 +24,12 @@
 - [x] 配置 Git + GitHub SSH key
 - [x] 安装并熟悉 tmux
 - [x] 安装 Miniconda 并创建环境
-- [x] 编写 `setup_env.sh` 脚本（环境自动部署）
 
 ---
 
 ### ⚙️ HPC 编译实践（HPL）
 - [x] 安装 gcc/gfortran/make/mpich
-- [x] 下载并编译 HPL
+- [ ] 下载并编译 HPL
 - [ ] 调整 Makefile 与 BLAS 链接选项
 - [ ] 运行 `xhpl` 并保存输出日志
 - [ ] 分析运行性能与瓶颈
